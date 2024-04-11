@@ -60,5 +60,9 @@ The next 24 lines follow the same pattern
 - [Space][Space]
 - [Space][Tab][Tab][Space][Space][Tab][Space][Space][LF]
 - [Tab][LF][Space][Space]
+
+And the final line ends the program
+
 - [LF][LF][LF]
-  -   Ends the program
+  -   First lf: flow control
+  -   Second and third lf: end the program
